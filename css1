@@ -1,0 +1,7 @@
+body {
+2	  padding: 50px;
+3	  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+4	}
+5	a {
+6	  color: #00b7ff;
+7	}
